@@ -1,1 +1,3 @@
 BME344 is a control systems course offered in the biomedical systems engineering option, which is one of the eight options in the Engineering Science program at the University of Toronto.
+
+In this project, my team and I modelled an artificial respiratory system, proposed by professors Doelman & Delawari as part of their undergraduate thesis at TU Delft. We utilized MATLAB and Simulink to model the proposed system, then alter it in a way to design two systems; one that models the behavior of the lungs of a patient suffering from asthma, and another that models the behavior of these lungs due after a possible medication is incorporated into the system. 
